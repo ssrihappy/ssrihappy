@@ -8,6 +8,7 @@
   Organic Chemistry  
   Medicinal Chemistry  
   Stock Exchange  
+    1. Quantative investment
   IoT  
     1. Samsung smartthings  
     2. Homekit  
