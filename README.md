@@ -21,6 +21,6 @@
   
 ### - 📫 How to reach me -
 
-email : ssrihappy@gmail.com
+email : ssrihappy@gmail.com  
 page : https://pharm.tistory.com/
 
