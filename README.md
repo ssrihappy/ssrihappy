@@ -5,21 +5,13 @@
 ### I’m interested in
   Business management
   Pharmaceutical Science  
-  Clinical pharmacy  
-  Stock Exchange  
-    1. Quantative investment   
+  Clinical Pharmacy  
+  Quantitative Investments 
   IoT  
-    1. Samsung smartthings  
-    2. Homekit  
-  
-  or, Make life easier(Anything)
 
-### I’m currently learning  
-  Python  
-  TF/Pytorch  
-  JavaScript 
+  or, Make life easier(Anything)
   
-### - 📫 How to reach me -
+### - 📫 How to Reach Me -
 
 email : ssrihappy@gmail.com  
 page : https://pharm.tistory.com
