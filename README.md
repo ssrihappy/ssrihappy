@@ -3,7 +3,7 @@
   happy = HAPPY🌱
 
 ### I’m interested in
-  Business management
+  Business management  
   Pharmaceutical Science  
   Clinical Pharmacy  
   Quantitative Investments 
